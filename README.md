@@ -1,4 +1,4 @@
-# Pyladies_Capstone_team6
+# Pyladies Capstone team 6
 
 Datasets from Kaggle: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
