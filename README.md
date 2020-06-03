@@ -14,3 +14,5 @@ We explored the dataset by answering the following questions:
 5. With which sports did the Netherlands win most medals?
 6. How much golden, silver and bronze medals did the Dutch won in this sport?
 
+Use the URL below to see the results of our analysis.
+https://docs.google.com/presentation/d/1x2d691zCygbHa9U0JUhHbBW30Bq1NhQwd1SaU3bXn6A/edit?usp=sharing
